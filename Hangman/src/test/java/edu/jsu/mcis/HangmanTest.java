@@ -5,6 +5,7 @@ import static org.junit.Assert.*;
 
 public class HangmanTest {
     
+	
     // Exam Question 1
     // Implement the Hangman available() method to make this 
     // unit test pass correctly.

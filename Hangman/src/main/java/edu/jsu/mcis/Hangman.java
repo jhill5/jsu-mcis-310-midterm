@@ -3,6 +3,7 @@ package edu.jsu.mcis;
 import java.util.*;
 
 public class Hangman {
+	
     public enum Result { WIN, LOSE, NONE };
     private String word;
     private List<Character> usedLetters;
